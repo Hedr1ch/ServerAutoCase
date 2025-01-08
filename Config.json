@@ -1,0 +1,6 @@
+{
+    "localDestination": ".\\Backup",
+    "logDestination": ".\\Log",
+    "remoteDestination": "C:\\Temp",
+    "backupName":  "ServerBackup"
+}
