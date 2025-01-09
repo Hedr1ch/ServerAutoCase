@@ -37,4 +37,4 @@ For more infomation please check log.
 
 
 [Version]
-Release version 1.0 (09-01-2025) by Nicolas Hedrich
+Release version 1.1 (09-01-2025) by Nicolas Hedrich

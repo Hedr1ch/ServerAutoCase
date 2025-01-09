@@ -12,9 +12,12 @@
 
 .NOTES
     Author: Nicolas Hedrich
-    Version: 1.0
+    Version: 1.1
     Release date: 09-01-2025
 #>
+
+#Import of module that enables Transcript for logging
+Import-Module Microsoft.PowerShell.Host
 
 # Config.json location and translation.
 $configFilePath = ".\Config.json" # Variable that contains Config.json path.
