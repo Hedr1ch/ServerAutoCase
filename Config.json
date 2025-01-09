@@ -1,6 +1,11 @@
 {
-    "localDestination": ".\\Backup",
+    "sourcePath": "C:\\Temp",
+
     "logDestination": ".\\Log",
-    "remoteDestination": "C:\\Temp",
-    "backupName":  "ServerBackup"
+
+    "destinationPath": ".\\Backup",
+
+    "destinationIP": "",
+
+    "remoteIP": ""
 }
